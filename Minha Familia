@@ -27,7 +27,7 @@
            </thead>
 
            <tr>      
-                <td onclick="location.href='segunda.html'"> SEGUNDA</td>       
+                <td onclick="location.href='arvore.html'"> ARVORE GENEALOGICA</td>       
 
             </tr>               
         
@@ -43,12 +43,8 @@
         <li>Segunda-feira----------Terça-Feira----------Quarta-Feira----------Quinta-Feira----------     Sexta-Feira</li>
        
 
-        <a href="segunda.html" target="_blank">     SEGUNDA--------   </a>  
-        <a href="terca.html" target="_blank">     --------TERÇA------- </a>    
-        <a href="quarta.html" target="_blank">     ---------QUARTA--------  </a>   
-        <a href="quinta.html" target="_blank">     ----------QUINTA-------- </a>     
-        <a href="sexta.html" target="_blank">     -----SEXTA--------   </a>  
-        
+        <a href="arvore.html" target="_blank">     SEGUNDA--------   </a>  
+
         <P></P>
     
         <li>Terça-feira</li>
